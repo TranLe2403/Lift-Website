@@ -1,0 +1,10 @@
+dist/
+
+# Firebase cache
+.firebase/
+node_module
+.vscode/
+.next/
+*.tmp
+.DS_Store
+*.log

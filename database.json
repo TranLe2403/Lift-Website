@@ -1,0 +1,43 @@
+{
+    "team": [
+      {
+        "name": "Tran Le",
+        "avatar": "https://cutt.ly/Owpgbw5",
+        "fb": "https://www.facebook.com/tran2403",
+        "github": "https://github.com/TranLe2403",
+        "gmail": "mailto:tratran.0324@gmail.com",
+        "description": ""
+      },
+      {
+        "name": "Vu Dao",
+        "avatar": "https://cutt.ly/TwpgbcE",
+        "fb": "https://www.facebook.com/anhvudao17",
+        "github": "https://github.com/greengrass17",
+        "gmail": "mailto:anhvudao17@gmail.com",
+        "description": "Not even sure what my role is"
+      },
+      {
+        "name": "Quan Dao",
+        "avatar": "https://cutt.ly/Xwpgvdt",
+        "fb": "https://www.facebook.com/dendimaniac",
+        "github": "https://github.com/dendimaniac",
+        "gmail": "mailto:daq30899@gmail.com",
+        "description": "Making some broken ass games"
+      }
+    ],
+    "games": [
+      {
+        "title": "To Infinity",
+        "image": "https://cutt.ly/4wpgWt8",
+        "description": "It's a reskin of the famous Doodle jump"
+      },
+      {
+        "title": "The hardest game",
+        "image": "https://cutt.ly/ewpgQkh",
+        "description": "It's a game about a flying 1 ton weight"
+      }
+    ],
+    "home": {
+      "description": "We are a young game studio making simple 2D games"
+    }
+  }
